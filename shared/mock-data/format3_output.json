@@ -1,0 +1,29 @@
+{
+  "asset": {
+    "symbol": "NVDA",
+    "name": "Nvidia",
+    "market": "NASDAQ"
+  },
+  "output": {
+    "vad_ar_viktigt_nu": "Nvidia slog estimaten med 12% i senaste kvartalet. Intäkterna landade på 26,2 miljarder dollar, drivet av en explosiv tillväxt inom datacenter. Det är den starkaste signalen just nu.",
+    "vad_driver_aktien": "Efterfrågan på AI-infrastruktur fortsätter att växa kraftigt. Nvidias datacenterintäkter ökade 427% jämfört med samma period förra året, vilket visar att bolaget är mitt i en strukturell tillväxtfas.",
+    "kort_vs_lang_sikt": {
+      "short_term": "Kursen har redan reagerat på rapporten. De närmaste 90 dagarna handlar om huruvida nästa kvartal kan leva upp till de höga förväntningarna.",
+      "long_term": "Bolagets position inom AI-chips är stark. Med en vinstmarginal på 55% och ett positivt kassaflöde är fundamentan stabila för fortsatt tillväxt."
+    },
+    "slutsats": "Nvidia levererade ett starkt kvartal med tydlig affärspåverkan. Caset drivs av strukturell AI-efterfrågan snarare än en engångshändelse. Rapporten stärker det långsiktiga caset men kortsiktig volatilitet kan förekomma inför nästa rapport."
+  },
+  "sources": [
+    {
+      "title": "Nvidia Q1 2026 revenue beats estimates by 12%",
+      "source_name": "Nvidia Investor Relations",
+      "source_url": "https://investor.nvidia.com/news/press-release-details/2026/example",
+      "published_at": "2026-03-18T14:00:00Z"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-03-28T10:30:00Z",
+    "signal_count": 1,
+    "data_quality": "high"
+  }
+}

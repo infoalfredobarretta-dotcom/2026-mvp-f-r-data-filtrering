@@ -1,0 +1,48 @@
+{
+  "document": {
+    "id": "doc_001",
+    "type": "quarterly_report",
+    "language": "en",
+    "published_at": "2026-03-18T14:00:00Z",
+    "collected_at": "2026-03-28T10:00:00Z",
+
+    "source": {
+      "name": "Nvidia Investor Relations",
+      "url": "https://investor.nvidia.com/news/press-release-details/2026/example",
+      "credibility": "primary"
+    },
+
+    "asset": {
+      "symbol": "NVDA",
+      "name": "Nvidia",
+      "market": "NASDAQ"
+    },
+
+    "content": {
+      "title": "Nvidia Q1 2026 revenue beats estimates by 12%",
+      "body_text": "Nvidia reported Q1 2026 revenue of $26.2 billion, exceeding analyst estimates of $23.4 billion by 12%. Data center revenue grew 427% year-over-year driven by continued demand for AI infrastructure.",
+      "language_original": "en",
+      "translated": false
+    },
+
+    "classification": {
+      "signal_type": "earnings_result",
+      "impact_area": "revenue",
+      "time_horizon": "short_term",
+      "materiality": "high"
+    },
+
+    "scoring": {
+      "relevance_score": null,
+      "source_quality_score": null,
+      "recency_score": null,
+      "final_score": null
+    },
+
+    "meta": {
+      "data_quality": "high",
+      "manually_entered": true,
+      "validated": false
+    }
+  }
+}

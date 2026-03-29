@@ -1,0 +1,31 @@
+{
+  "asset": {
+    "symbol": "NVDA",
+    "name": "Nvidia"
+  },
+  "signals": [
+    {
+      "id": "doc_001",
+      "type": "quarterly_report",
+      "title": "Nvidia Q1 2026 revenue beats estimates by 12%",
+      "body_text": "Nvidia reported Q1 2026 revenue of $26.2 billion, exceeding analyst estimates of $23.4 billion by 12%. Data center revenue grew 427% year-over-year driven by continued demand for AI infrastructure.",
+      "source_name": "Nvidia Investor Relations",
+      "source_url": "https://investor.nvidia.com/news/press-release-details/2026/example",
+      "published_at": "2026-03-18T14:00:00Z",
+      "impact_area": "revenue",
+      "time_horizon": "short_term",
+      "materiality": "high",
+      "grundscore": 1.0,
+      "alderfaktor": 1.0,
+      "final_score": 1.0
+    }
+  ],
+  "context": {
+    "omsattning": "26.2B USD",
+    "vinstmarginal": "55%",
+    "pe_tal": 38,
+    "skuldattningsgrad": "low",
+    "kassaflode": "positivt"
+  },
+  "instruction": "Sammanfatta de viktigaste signalerna på ett kort och jordnära sätt. Använd den finansiella kontexten för att nyansera slutsatsen. Skriv som en erfaren men jordnära person, inte som ett system."
+}
