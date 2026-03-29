@@ -45,7 +45,7 @@ Svaret från språkmodellen formateras till Format 3 och skickas vidare till Fil
  
 ---
  
-## Alfredo — Bygger scoring-logiken
+## Alfredo - Bygger scoring-logiken
  
 Ett script som tar emot Format 1 från Melker och bedömer hur viktig varje signal är.
  
