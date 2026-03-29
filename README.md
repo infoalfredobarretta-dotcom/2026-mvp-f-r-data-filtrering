@@ -14,7 +14,15 @@ Målet är att en retail stock picker ska förstå en aktie bättre på 60 sekun
 Det är produkten. Det är vad vi bygger mot.
 
 
-
+#Planering
+Vecka 1 Planering och produktdefinition
+Vecka  — Påbörja bygge och lära känna systemet
+Alla tre sätter upp miljön, förstår sin del och skriver de första raderna kod. Inget behöver vara klart.
+Vecka 3 — Bygge
+Alla tre färdigställer sina delar.
+Vecka 4 — Ihopsättning och test
+Koppla ihop delarna, köra på en riktig aktie och testa.
+Totalt: Klar vecka 4.
 
 # Vad ska vi bygga - per person
  
