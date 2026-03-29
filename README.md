@@ -1,11 +1,29 @@
-# Vad ska vi bygga — per person
+# vad vi bygger och varför
+Vi bygger ett verktyg för retail stock pickers som är trötta på att drunkna i information.
+
+Problemet är inte att det finns för lite information om aktier. Problemet är att det finns för mycket. Nyheter, analyser, Reddit-trådar, chart-mönster, motstridiga åsikter - allt pockar på uppmärksamhet samtidigt. Resultatet är att folk antingen fattar beslut på fel grund eller skjuter upp dem helt.
+
+Vår lösning är enkel. En enda sida där du söker på en aktie och direkt får svar på fyra frågor - vad är viktigt nu, vad driver aktien, vad gäller kortsiktigt respektive långsiktigt, och vad är slutsatsen. Inget mer, inget mindre.
+
+Det som gör produkten trovärdig är vad vi väljer att inte visa. Vi visar inte chart-mönster, tekniska indikatorer, sociala medier eller analytikerspekulationer. Vi visar bara det som faktiskt påverkar bolagets värde - kvartalsrapporter, ledningsbyten, förvärv, regulatoriska beslut och andra officiella bolagshändelser. Allt länkat till originalkällan så användaren alltid kan verifiera vad de ser.
+
+Skillnaden mot andra verktyg är inte att vi har AI. Det är att vi begränsar vad användaren ser och presenterar det i en fast, tydlig struktur varje gång. Ingen terminal. Inget nyhetsflöde. Inget brus.
+
+Målet är att en retail stock picker ska förstå en aktie bättre på 60 sekunder med vår produkt än på 30 minuter på egen hand.
+
+Det är produkten. Det är vad vi bygger mot.
+
+
+
+
+# Vad ska vi bygga - per person
  
 **Projekt:** Stock Signal System
 **Datum:** 2026-03-28
  
 ---
  
-## Melker — Bygger två saker
+## Melker - Bygger två saker
  
 ### Del 1: Normaliseringsscript
 Ett script som tar en råtext (artikel, pressmeddelande, rapport, filing) och omvandlar den till JSON enligt Format 1.
@@ -43,7 +61,7 @@ Signaler med tillräckligt högt poäng går vidare. De med lågt poäng filtrer
  
 ---
  
-## Filip — Bygger frontend
+## Filip - Bygger frontend
  
 En ensidig webbsida där användaren kan söka på ett bolagsnamn eller ticker, till exempel "Nvidia" eller "NVDA", och få Format 3 visat på ett tydligt sätt.
  
