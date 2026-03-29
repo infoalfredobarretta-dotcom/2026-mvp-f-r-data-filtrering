@@ -1,10 +1,10 @@
-# Git-guide för Teamet — MVP 2026
+# Git-guide — Gör exakt detta, inget annat
 
 ---
 
-## 1. Första gången — Klona repot
+## Första gången — Kopiera projektet till din dator
 
-Kör detta för att ladda ner projektet till din dator:
+Kör dessa tre rader i terminalen:
 
 ```
 git clone https://github.com/infoalfredobarretta-dotcom/2026-mvp-f-r-data-filtrering.git
@@ -12,104 +12,54 @@ cd 2026-mvp-f-r-data-filtrering
 code .
 ```
 
-Byt sedan till din branch direkt:
+Byt sedan till din branch. Kör bara den rad som gäller dig:
 
-**Melek:**
 ```
 git checkout melek/data-pipeline
 ```
-
-**Alfredo:**
 ```
 git checkout alfredo/scoring-engine
 ```
-
-**Filip:**
 ```
 git checkout filip/frontend
 ```
 
 ---
 
-## 2. Innan du börjar jobba — Hämta senaste
-
-Kör alltid detta innan du börjar koda så du har den senaste versionen:
+## Varje dag innan du börjar — Gör alltid detta först
 
 ```
+cd 2026-mvp-f-r-data-filtrering
 git pull
 ```
 
 ---
 
-## 3. När du är klar — Skicka upp din kod
+## När du är klar för dagen — Skicka upp din kod
 
-Kör dessa tre kommandon i ordning:
+Kör dessa tre rader i ordning:
 
-**Steg 1 — Samla dina ändringar:**
 ```
 git add .
-```
-
-**Steg 2 — Spara med ett meddelande:**
-```
-git commit -m "Beskriv kort vad du gjort"
-```
-
-**Steg 3 — Skicka till GitHub:**
-
-Melek:
-```
-git push origin melek/data-pipeline
-```
-
-Alfredo:
-```
-git push origin alfredo/scoring-engine
-```
-
-Filip:
-```
-git push origin filip/frontend
+git commit -m "vad du gjort idag"
+git push
 ```
 
 ---
 
-## 4. Om det blir problem
+## Tre regler
 
-Om Git nekar din push, kör:
-```
-git pull
-```
-
-Om Git löser det själv — kör push igen.
-Om det blir en konflikt — öppna filen i VS Code, välj rätt kod, spara, och kör `add`, `commit`, `push` igen.
+1. Jobba alltid på din egen branch, aldrig main
+2. Kör alltid `git pull` innan du börjar
+3. Kör alltid `git add .` + `git commit` + `git push` när du är klar
 
 ---
 
-## 5. Osäker på vad som händer?
+## Osäker på var du är?
 
 ```
+git branch
 git status
 ```
 
-Visar vad som är ändrat och vad som inte är uppskickat.
-
----
-
-## Snabbreferens
-
-| Vad | Kommando |
-|-----|----------|
-| Hämta senaste | `git pull` |
-| Förbered ändringar | `git add .` |
-| Spara med meddelande | `git commit -m "meddelande"` |
-| Skicka till GitHub | `git push origin DIN-BRANCH` |
-| Kolla status | `git status` |
-
----
-
-## Regler
-
-- Jobba alltid på din egen branch
-- Pusha aldrig till main
-- Kör alltid `git pull` innan du börjar jobba
+Det första visar vilken branch du är på. Det andra visar vad som inte är uppskickat.
