@@ -13,6 +13,17 @@ Målet är att en retail stock picker ska förstå en aktie bättre på 60 sekun
 
 Det är produkten. Det är vad vi bygger mot.
 
+# Redskap
+Alfredo (scoring)
+Python
+Melker (data + LLM)
+Python + Claude API 
+Filip (frontend)
+HTML + CSS
+Gemensamt
+GitHub, VS Code, JSON
+
+
 
 # Planering
 **Vecka 1** Planering och produktdefinition
