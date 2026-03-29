@@ -44,8 +44,6 @@ Koppla ihop delarna, köra på en riktig aktie och testa.
 
 # Vad ska vi bygga - per person
  
-**Projekt:** Stock Signal System
-**Datum:** 2026-03-28
  
 ---
  
