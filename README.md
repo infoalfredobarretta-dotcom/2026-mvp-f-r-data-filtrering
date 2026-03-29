@@ -22,7 +22,7 @@ Alla tre sätter upp miljön, förstår sin del och skriver de första raderna k
 Vecka 3 - Bygge
 Alla tre färdigställer sina delar.
 
-Vecka 4 - Ihopsättning och test
+**Vecka 4 - Ihopsättning och test
 Koppla ihop delarna, köra på en riktig aktie och testa.
 
 Totalt: Klar vecka 4.
