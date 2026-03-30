@@ -8,6 +8,8 @@
 
 Stock pickers ska aldrig behöva drunkna i information för att fatta ett välgrundat beslut.
 
+**Kom ihåg:**Om något inte stödjer visionen så gör vi det inte 
+
 
 
 
