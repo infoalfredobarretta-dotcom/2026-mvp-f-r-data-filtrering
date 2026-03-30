@@ -4,6 +4,15 @@
 
 ---
 
+## Vår vision 
+
+Stock pickers ska aldrig behöva drunkna i information för att fatta ett välgrundat beslut.
+
+
+
+
+
+
 ## Vad vi bygger och varför
 
 Vi bygger ett verktyg för retail stock pickers som är trötta på att drunkna i information.
