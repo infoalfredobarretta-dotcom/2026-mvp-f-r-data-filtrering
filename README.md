@@ -1,5 +1,5 @@
 
-# Stock Signal System - MVP
+# Data filtrering - MVP
 **Period:** 2026-03-29 till 2026-04-14
 
 ---
