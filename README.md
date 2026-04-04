@@ -55,14 +55,17 @@ I slutet ska båda delar fungera sömlöst tillsammans.
 
 ---
 
-## Leverans
+## Leverans 
+Fullständig MVP som svarar på dessa fyra frågor: vad är viktigt nu, vad driver aktien, vad gäller kortsiktigt respektive långsiktigt, och vad är slutsatsen. Detta ska funka på det tre utvalda utvalda aktierna. 
 
-Fullständig MVP som fungerar på tre utvalda aktier:
+Investor B (INVE-B)
 
-- Investor B (INVE-B)
-- Nvidia (NVDA)
-- Novo Nordisk B (NOVO-B)
-  
+Nvidia (NVDA)
+
+Novo Nordisk B (NOVO B)
+
+ Vid deadline ska datan kunna hämtas och matas in i MVP 
+
 **CIO**-Levererar ett fullständigt dokument på hur systemet funkar från rådata till output 
 
 
