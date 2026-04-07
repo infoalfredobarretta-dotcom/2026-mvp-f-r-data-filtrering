@@ -21,7 +21,7 @@ Vi bygger ett verktyg för retail stock pickers som är trötta på att drunkna 
 
 Problemet är inte att det finns för lite information om aktier. Problemet är att det finns för mycket. Nyheter, analyser, Reddit-trådar, chart-mönster, motstridiga åsikter — allt pockar på uppmärksamhet samtidigt. Resultatet är att folk antingen fattar beslut på fel grund eller skjuter upp dem helt.
 
-Vår lösning är enkel. En enda sida där du söker på en aktie och direkt får svar på fyra frågor: vad är viktigt nu, vad driver aktien, vad gäller kortsiktigt respektive långsiktigt, och vad är slutsatsen. Inget mer, inget mindre.
+Vår lösning är enkel. En enda sida där du söker på en aktie och direkt får svar på fyra frågor: vad är viktigt nu, vad driver aktien, viktigt att bevaka framåt?, och vad är slutsatsen. Inget mer, inget mindre.
 
 Det som gör produkten trovärdig är vad vi väljer att inte visa. Vi visar inte chart-mönster, tekniska indikatorer, sociala medier eller analytikerspekulationer. Vi visar bara det som faktiskt påverkar bolagets värde — kvartalsrapporter, ledningsbyten, förvärv, regulatoriska beslut och andra officiella bolagshändelser. Allt länkat till originalkällan så användaren alltid kan verifiera vad de ser.
 
