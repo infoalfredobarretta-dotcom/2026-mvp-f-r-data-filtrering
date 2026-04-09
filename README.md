@@ -6,7 +6,7 @@
 
 ## Vår vision 
 
-Stock pickers ska aldrig behöva drunkna i information för att fatta ett välgrundat beslut.
+Stock pickers ska snabbt se vad som spelar roll, utan brus.
 
 **Kom ihåg:** Om något inte stödjer visionen så gör vi det inte 
 
