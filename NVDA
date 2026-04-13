@@ -216,6 +216,401 @@ https://www.tradingview.com/news/reuters.com,2026:newsml_L6N40R16F:0-sifive-rais
 
 
 
+Boost Run Achieves NVIDIA Exemplar Cloud on NVIDIA Blackwell Architecture(TM), Joining an Elite Tier of Global AI Infrastructure Leaders
+Apr 13, 2026, 14:00 GMT+2
+Boost Run Becomes One of Only a Handful of Cloud Providers Worldwide to Earn NVIDIA's Highest Standard of Cloud Performance Validation
+
+NORTHBROOK, Ill., April 13, 2026 /PRNewswire/ — Boost Run, LLC ("Boost Run"), an NVIDIA Cloud Partner ("NCP") and Preferred Cloud Service Provider that has entered into a definitive agreement to merge with Willow Lane Acquisition Corp. ("Willow Lane") 
+WLAC
+ and is expected to trade on the Nasdaq Stock Market LLC ("Nasdaq") under the symbol "BRUN" upon completion of the transaction, today announced it has achieved NVIDIA Exemplar Cloud on NVIDIA Blackwell(TM) architecture — one of the most rigorous technical certifications in artificial intelligence infrastructure. With this milestone, Boost Run joins an exclusive group of cloud providers globally to earn this designation, including CoreWeave, Nebius, Oracle Cloud Infrastructure, and Microsoft Azure.
+
+The NVIDIA Exemplar Cloud program recognizes cloud platforms that demonstrate reproducible, world-class AI workload performance at scale using NVIDIA Performance Benchmarking. To achieve validation, a provider must demonstrate that its infrastructure delivers results within 5% of NVIDIA's own reference performance targets — across real-world training workloads, production-grade software stacks, and massive multi-GPU configurations.
+
+"Achieving NVIDIA Exemplar Cloud is validation of what we are committed to delivering the highest caliber of performance for our enterprise users — infrastructure that doesn't just promise performance, it proves it," said Andy Karos, Founder and CEO of Boost Run. "Our customers in regulated industries — finance, healthcare and amongst others — demand the highest levels of performance predictability, security, and compliance. NVIDIA Exemplar Cloud validation gives them independent, reproducible confirmation that Boost Run delivers. It is a distinction to stand alongside some of the largest cloud providers in the world to earn this distinction."
+
+"The NVIDIA Exemplar Cloud achievement is a testament to Boost Run's commitment to delivering leading AI infrastructure," said Warren Barkley, Vice President of Product Management at NVIDIA. "The Exemplar Clouds initiative sets a transparent standard for performance and resiliency, and we congratulate Boost Run for embracing a high standard of workload performance in their infrastructure."
+
+What NVIDIA Exemplar Cloud Means
+
+The NVIDIA Exemplar Cloud initiative was established to bring transparency and accountability to AI cloud performance — cutting through subjective claims with standardized, reproducible benchmarks. Rather than relying on synthetic microbenchmarks, the initiative evaluates real AI training workloads using large-scale LLM scenarios, production-grade software stacks, and workload-centric metrics including throughput and time-to-train. Exemplar-validated providers must demonstrate:
+
+Reproducible performance on NVIDIA Blackwell benchmarking recipes across large-scale LLM training and inference workloads
+Infrastructure consistency from single nodes to multi-thousand GPU configurations
+Full-stack optimization across compute, networking, and system software aligned to NVIDIA Enterprise Reference Architectures
+Performance within 5% of NVIDIA's own target results
+Fewer than a handful of cloud providers worldwide have achieved this validation. Boost Run is now among them.
+
+Purpose-Built for the Most Demanding Workloads
+
+Boost Run's Exemplar Cloud validation was achieved on its NVIDIA HGX(TM) B300 infrastructure, which operates out of secure and certified data centers. Boost Run's purpose-built colocation footprint — spanning Charlotte, Raleigh, Dallas, Seattle, and Eagan — provides the foundation for AI infrastructure that performs at the highest levels while meeting the compliance requirements of the world's most regulated industries.
+
+A Defining Moment for Enterprise AI Infrastructure
+
+NVIDIA Exemplar Cloud carries particular significance for enterprise and regulated-industry customers who cannot afford unpredictable performance or unverified infrastructure. For Boost Run's customer base — which spans financial services, healthcare, defense, and frontier AI research — this certification provides an independently verified performance baseline that no marketing material can replicate.
+
+"This is about accountability," Karos continued. "The benchmarks are public. The results are reproducible. Customers can run NVIDIA's own tests on our infrastructure and see for themselves. That level of transparency is the standard we have always held ourselves to, and now NVIDIA has confirmed it."
+
+About Boost Run
+
+Boost Run is a leading provider of scalable cloud infrastructure purpose-built for enterprise AI and high-performance computing workloads. The platform delivers GPU compute, CPU nodes, managed Kubernetes orchestration, and shared storage through an intuitive management console and a robust API layer, enabling organizations to provision and scale resources across thousands of nodes in minutes. Organizations rely on Boost Run to power their most demanding AI workloads with the performance, security, and reliability their operations require. Boost Run maintains SOC 2 Type II, HIPAA, ISO 27001, and ISO 27701 certifications at the operator level, and partners with data center facilities that uphold equivalent security and compliance standards.
+
+About Willow Lane
+
+Willow Lane is a blank check company formed for the purpose of effecting a merger, amalgamation, share exchange, asset acquisition, share purchase, reorganization or similar business combination with one or more businesses. Willow Lane's team has broad sector knowledge and brings a combination of operating, investing, financial and transactional experience. Willow Lane team has collectively identified and closed five previous SPAC business combinations, creating value for shareholders.
+
+Additional Information and Where to Find It
+
+Willow Lane, Boost Run and Boost Run Inc. ("Pubco"), have filed relevant materials with the Securities and Exchange Commission ("SEC"), including the Registration Statement on Form S-4, which includes the proxy statement of Willow Lane and a prospectus in connection with the proposed business combination (the "Business Combination"), referred to as a proxy statement/prospectus. The definitive proxy statement and other relevant documents will be mailed to shareholders of Willow Lane as of a record date established for voting on Willow Lane's proposed Business Combination with Boost Run. SHAREHOLDERS OF WILLOW LANE AND OTHER INTERESTED PARTIES ARE URGED TO READ, WHEN AVAILABLE, THE REGISTRATION STATEMENT, THE DEFINITIVE PROXY STATEMENT AND ALL OTHER RELEVANT DOCUMENTS FILED OR THAT WILL BE FILED WITH THE SEC IN CONNECTION WITH WILLOW LANE'S SOLICITATION OF PROXIES FOR THE EXTRAORDINARY GENERAL MEETING OF ITS SHAREHOLDERS TO BE HELD TO APPROVE THE BUSINESS COMBINATION BECAUSE THESE DOCUMENTS CONTAIN OR WILL CONTAIN IMPORTANT INFORMATION ABOUT WILLOW LANE, BOOST RUN, PUBCO AND THE BUSINESS COMBINATION. Shareholders will be able to obtain copies of the Registration Statement and the proxy statement/prospectus, without charge, once available, on the SEC's website at www.sec.gov or by directing a request to: Willow Lane Acquisition Corp, 250 West 57th Street, Suite 415, New York, NY 10107; or Boost Run, LLC, 5 Revere Drive, Suite 200 Northbrook, IL 60062.
+
+Forward-Looking Statements
+
+This press release contains certain forward-looking statements within the meaning of the federal securities laws with respect to the Business Combination, including expectations, hopes, beliefs, intentions, plans, prospects, financial results or strategies regarding Boost Run and the Business Combination. Forward-looking statements may be identified by the use of words such as "estimate," "plan," "project," "forecast," "intend," "may," "will," "expect," "continue," "should," "would," "anticipate," "believe," "seek," "target," "predict," "potential," "seem, " "future," "outlook" or other similar expressions that predict or indicate future events or trends or that are not statements of historical matters, but the absence of these words does not mean that a statement is not forward-looking. These forward-looking statements include, but are not limited to, references with respect to the anticipated benefits and timing of the completion of the Business Combination; statements about Boost Run's new and expanded commercial relationships; statements about Boost Run's market opportunity and the potential growth of that market; Boost Run's strategy, outcomes and growth prospects; trends in Boost Run's industry and markets; the competitive environment in which Boost Run operates; and the ability for Boost Run to raise funds to support its business. These statements are based on various assumptions, whether or not identified in this press release, and on the current expectations of Boost Run's and Willow Lane's management and are not predictions of actual performance. These forward-looking statements are provided for illustrative purposes only and are not intended to serve as, and must not be relied on by any investor as, a guarantee, an assurance, a prediction or a definitive statement of fact or probability. Actual events and circumstances are difficult or impossible to predict and will differ from assumptions. Many actual events and circumstances are beyond the control of Boost Run and Willow Lane.
+
+https://www.tradingview.com/news/DJN_DN20260413002981:0/
+
+
+
+
+
+Why 'Rule of 10' stocks like Nvidia and Meta are now poised for a comeback, according to Goldman Sachs
+Apr 13, 2026, 13:41 GMT+2
+By Jamie Chisholm
+
+Higher bond yields have been hitting secular growth stocks, but that may be about to change
+
+Jensen Huang of Nvidia, Alphabet's Sundar Pichai and Mark Zuckerberg of Meta all preside over so-called Rule of 10 companies.
+
+Oil prices are surging again. Usually, that's likely to cause investor worry about the damage being done to the economy and to make companies enjoying secular growth - long-term, structural expansion in sectors largely independent of short-term economic cycles - that much more attractive.
+
+But many such secular growth stocks - software over recent decades, for example, and AI more recently - have been having a rotten time of late. "The de-rating of secular growth," is how a team of strategists at Goldman Sachs led by Ben Snider summarize the recent market shift.
+
+In a note published late Friday, the Goldman team observes that, while the S&P 500 SPX has rebounded to within 2% of its record high, secular growth stocks remain more than 20% below their highs of October 2025.
+
+"Secular growth stocks have faced a series of challenges in recent months, including expectations of economic acceleration, surging bond yields, and AI disruption risk," the Goldman team says.
+
+This has seen stocks with high revenue growth suffer contracting valuations in recent months.
+
+Goldman's definition of secular growth stocks are those S&P 500 companies, excluding financials, real estate and utilities, that meet its "Rule of 10" sales-growth criteria. The criteria are that companies grew sales by at least 10% during each of the prior two years and boast consensus estimates that indicate sales growth of at least 10% in the current year and each of the next two years.
+
+Goldman's own evolving Rule of 10 basket has underperformed the equal-weight S&P 500 by 27 percentage points during the past six months, "one of the worst stretches of underperformance during the past 15 years," the team says.
+
+Underperformance of secular growth stocks began in late 2025, according to Goldman, as expectations for strong economic growth in 2026 led investors to rotate toward cyclical stocks with more exposure to the economy.
+
+Indeed, "the median stock in our secular growth screen has experienced a 30% [price-to-earnings] compression during the past few months and now trades at nearly the lowest valuation multiple in a decade," the Goldman team adds.
+
+But now the team expects the basket's performance to start improving as "the diminished outlook for economic growth against a backdrop of elevated oil prices and uncertainty should drive increased focus on companies with strong idiosyncratic growth profiles."
+
+Goldman's economists think the market's expectation of a Fed policy response to growing inflationary pressures is too hawkish. They see the 10-year Treasury yield falling by roughly 20 basis points to 4.1% by year-end. That should be another tailwind for secular growth stocks, they say.
+
+The recent dive in many software stocks IGV on fears that they will be disintermediated by artificial intelligence means that sector now has more members on Goldman's Rule of 10 screen. Still, Goldman warns that "resolving this uncertainty will likely require evidence that AI is not displacing existing business models."
+
+The nonsoftware stocks that meet Goldman's Rule of 10 criteria, ranked by expected 2027 sales growth, include Broadcom (AVGO), Advanced Micro Devices (AMD), Nvidia (NVDA), Arista Networks (ANET), Meta Platforms (META), Alphabet (GOOGL), Uber (UBER), Netflix (NFLX) and Amazon.com (AMZN).
+
+The markets
+
+U.S. stock-index futures (ES00) (YM00) (NQ00) are lower as oil prices (CL.1) bounce higher and gold futures (GC00) are trading around $4,740 an ounce.
+
+   Key asset performance                                                Last       5d       1m      YTD     1y 
+   S&P 500                                                              6824.66    3.68%    2.28%   -0.30%  29.55% 
+   Nasdaq Composite                                                     22,822.42  4.31%    2.29%   -1.81%  39.27% 
+   10-year Treasury                                                     4.298      -2.20    1.60    12.60   -19.60 
+   Gold                                                                 4774.6     1.53%    -4.95%  10.21%  46.67% 
+   Oil                                                                  98.54      -12.06%  -0.77%  71.64%  60.28% 
+   Data: MarketWatch. Treasury yields change expressed in basis points 
+Take control of your news. Make MarketWatch your preferred source on Google.
+
+The buzz
+
+U.S. President Donald Trump said he will put a naval blockade on Iranian ports from 10 a.m. Eastern time after peace talks between the U.S. and Iran failed over the weekend.
+
+Trump also threatened China with a 50% tariff if it aided Iran's war efforts, and he criticized Pope Leo, accusing him of catering to the "radical left."
+
+Goldman Sachs (GS) shares are lower after the bank kicked off the first-quarter corporate earnings season. A batch of other banks will deliver results on Tuesday.
+
+U.S. economic data due Monday include existing-home sales for March, to be released at 10 a.m.
+
+Fed officials making comments include Stephen Miran speaking at a financial-system symposium at 6:20 p.m.
+
+Best of the web
+
+AI is using so much energy that computing firepower is running out.
+
+Sam Altman's home targeted in second attack; two suspects arrested.
+
+Weight-loss drugs and Mars bars: Novo Nordisk's comeback bid.
+
+The chart
+
+Source: Sentimentrader
+
+The heavy buying of shares by those supposedly in the know is something many investors follow. The chart, posted on X last week by Jay Kaeppel, senior market analyst at Sentimentrader, is therefore worthy of note. It shows that the total number of corporate insiders of companies covered by the State Street Technology Select Sector SPDR ETF XLK that have bought shares on the open market during the past six months is at a 15-year high.
+
+Top tickers
+
+Here were the most active stock-market tickers on MarketWatch as of 6 a.m. Eastern.
+
+   Ticker  Security name 
+   NVDA    Nvidia 
+   TSLA    Tesla 
+   AMZN    Amazon.com 
+   PLTR    Palantir Technologies 
+   GME     GameStop 
+   NIO     NIO 
+   TSM     Taiwan Semiconductor Manufacturing 
+   AMD     Advanced Micro devices 
+   AAPL    Apple 
+   MSFT    Microsoft 
+Random reads
+
+Strike out: baseball statue unveiling fail.
+
+How a "fish doorbell" is saving aquatic lives.
+
+Spring has sprung in Japan.
+
+Beyond the newsroom
+
+MarketWatch Picks: I'm 33, make $240K and contribute 6% to my 401(k). I wiped out my savings to pay for school - and still have debt. Now what?
+
+-Jamie Chisholm
+
+This content was created by MarketWatch, which is operated by Dow Jones & Co. MarketWatch is published independently from Dow Jones Newswires and The Wall Street Journal.
+
+https://www.tradingview.com/news/DJN_SN20260413004572:0/
+
+
+Boost Run Achieves NVIDIA Exemplar Cloud on NVIDIA Blackwell Architecture(TM), Joining an Elite Tier of Global AI Infrastructure Leaders
+Apr 13, 2026, 14:00 GMT+
+Boost Run Becomes One of Only a Handful of Cloud Providers Worldwide to Earn NVIDIA's Highest Standard of Cloud Performance Validation
+
+NORTHBROOK, Ill., April 13, 2026 /PRNewswire/ — Boost Run, LLC ("Boost Run"), an NVIDIA Cloud Partner ("NCP") and Preferred Cloud Service Provider that has entered into a definitive agreement to merge with Willow Lane Acquisition Corp. ("Willow Lane") 
+WLAC
+ and is expected to trade on the Nasdaq Stock Market LLC ("Nasdaq") under the symbol "BRUN" upon completion of the transaction, today announced it has achieved NVIDIA Exemplar Cloud on NVIDIA Blackwell(TM) architecture — one of the most rigorous technical certifications in artificial intelligence infrastructure. With this milestone, Boost Run joins an exclusive group of cloud providers globally to earn this designation, including CoreWeave, Nebius, Oracle Cloud Infrastructure, and Microsoft Azure.
+
+The NVIDIA Exemplar Cloud program recognizes cloud platforms that demonstrate reproducible, world-class AI workload performance at scale using NVIDIA Performance Benchmarking. To achieve validation, a provider must demonstrate that its infrastructure delivers results within 5% of NVIDIA's own reference performance targets — across real-world training workloads, production-grade software stacks, and massive multi-GPU configurations.
+
+"Achieving NVIDIA Exemplar Cloud is validation of what we are committed to delivering the highest caliber of performance for our enterprise users — infrastructure that doesn't just promise performance, it proves it," said Andy Karos, Founder and CEO of Boost Run. "Our customers in regulated industries — finance, healthcare and amongst others — demand the highest levels of performance predictability, security, and compliance. NVIDIA Exemplar Cloud validation gives them independent, reproducible confirmation that Boost Run delivers. It is a distinction to stand alongside some of the largest cloud providers in the world to earn this distinction."
+
+"The NVIDIA Exemplar Cloud achievement is a testament to Boost Run's commitment to delivering leading AI infrastructure," said Warren Barkley, Vice President of Product Management at NVIDIA. "The Exemplar Clouds initiative sets a transparent standard for performance and resiliency, and we congratulate Boost Run for embracing a high standard of workload performance in their infrastructure."
+
+What NVIDIA Exemplar Cloud Means
+
+The NVIDIA Exemplar Cloud initiative was established to bring transparency and accountability to AI cloud performance — cutting through subjective claims with standardized, reproducible benchmarks. Rather than relying on synthetic microbenchmarks, the initiative evaluates real AI training workloads using large-scale LLM scenarios, production-grade software stacks, and workload-centric metrics including throughput and time-to-train. Exemplar-validated providers must demonstrate:
+
+Reproducible performance on NVIDIA Blackwell benchmarking recipes across large-scale LLM training and inference workloads
+Infrastructure consistency from single nodes to multi-thousand GPU configurations
+Full-stack optimization across compute, networking, and system software aligned to NVIDIA Enterprise Reference Architectures
+Performance within 5% of NVIDIA's own target results
+Fewer than a handful of cloud providers worldwide have achieved this validation. Boost Run is now among them.
+
+Purpose-Built for the Most Demanding Workloads
+
+Boost Run's Exemplar Cloud validation was achieved on its NVIDIA HGX(TM) B300 infrastructure, which operates out of secure and certified data centers. Boost Run's purpose-built colocation footprint — spanning Charlotte, Raleigh, Dallas, Seattle, and Eagan — provides the foundation for AI infrastructure that performs at the highest levels while meeting the compliance requirements of the world's most regulated industries.
+
+A Defining Moment for Enterprise AI Infrastructure
+
+NVIDIA Exemplar Cloud carries particular significance for enterprise and regulated-industry customers who cannot afford unpredictable performance or unverified infrastructure. For Boost Run's customer base — which spans financial services, healthcare, defense, and frontier AI research — this certification provides an independently verified performance baseline that no marketing material can replicate.
+
+"This is about accountability," Karos continued. "The benchmarks are public. The results are reproducible. Customers can run NVIDIA's own tests on our infrastructure and see for themselves. That level of transparency is the standard we have always held ourselves to, and now NVIDIA has confirmed it."
+
+About Boost Run
+
+Boost Run is a leading provider of scalable cloud infrastructure purpose-built for enterprise AI and high-performance computing workloads. The platform delivers GPU compute, CPU nodes, managed Kubernetes orchestration, and shared storage through an intuitive management console and a robust API layer, enabling organizations to provision and scale resources across thousands of nodes in minutes. Organizations rely on Boost Run to power their most demanding AI workloads with the performance, security, and reliability their operations require. Boost Run maintains SOC 2 Type II, HIPAA, ISO 27001, and ISO 27701 certifications at the operator level, and partners with data center facilities that uphold equivalent security and compliance standards.
+
+About Willow Lane
+
+Willow Lane is a blank check company formed for the purpose of effecting a merger, amalgamation, share exchange, asset acquisition, share purchase, reorganization or similar business combination with one or more businesses. Willow Lane's team has broad sector knowledge and brings a combination of operating, investing, financial and transactional experience. Willow Lane team has collectively identified and closed five previous SPAC business combinations, creating value for shareholders.
+
+Additional Information and Where to Find It
+
+Willow Lane, Boost Run and Boost Run Inc. ("Pubco"), have filed relevant materials with the Securities and Exchange Commission ("SEC"), including the Registration Statement on Form S-4, which includes the proxy statement of Willow Lane and a prospectus in connection with the proposed business combination (the "Business Combination"), referred to as a proxy statement/prospectus. The definitive proxy statement and other relevant documents will be mailed to shareholders of Willow Lane as of a record date established for voting on Willow Lane's proposed Business Combination with Boost Run. SHAREHOLDERS OF WILLOW LANE AND OTHER INTERESTED PARTIES ARE URGED TO READ, WHEN AVAILABLE, THE REGISTRATION STATEMENT, THE DEFINITIVE PROXY STATEMENT AND ALL OTHER RELEVANT DOCUMENTS FILED OR THAT WILL BE FILED WITH THE SEC IN CONNECTION WITH WILLOW LANE'S SOLICITATION OF PROXIES FOR THE EXTRAORDINARY GENERAL MEETING OF ITS SHAREHOLDERS TO BE HELD TO APPROVE THE BUSINESS COMBINATION BECAUSE THESE DOCUMENTS CONTAIN OR WILL CONTAIN IMPORTANT INFORMATION ABOUT WILLOW LANE, BOOST RUN, PUBCO AND THE BUSINESS COMBINATION. Shareholders will be able to obtain copies of the Registration Statement and the proxy statement/prospectus, without charge, once available, on the SEC's website at www.sec.gov or by directing a request to: Willow Lane Acquisition Corp, 250 West 57th Street, Suite 415, New York, NY 10107; or Boost Run, LLC, 5 Revere Drive, Suite 200 Northbrook, IL 60062.
+
+Forward-Looking Statements
+
+This press release contains certain forward-looking statements within the meaning of the federal securities laws with respect to the Business Combination, including expectations, hopes, beliefs, intentions, plans, prospects, financial results or strategies regarding Boost Run and the Business Combination. Forward-looking statements may be identified by the use of words such as "estimate," "plan," "project," "forecast," "intend," "may," "will," "expect," "continue," "should," "would," "anticipate," "believe," "seek," "target," "predict," "potential," "seem, " "future," "outlook" or other similar expressions that predict or indicate future events or trends or that are not statements of historical matters, but the absence of these words does not mean that a statement is not forward-looking. These forward-looking statements include, but are not limited to, references with respect to the anticipated benefits and timing of the completion of the Business Combination; statements about Boost Run's new and expanded commercial relationships; statements about Boost Run's market opportunity and the potential growth of that market; Boost Run's strategy, outcomes and growth prospects; trends in Boost Run's industry and markets; the competitive environment in which Boost Run operates; and the ability for Boost Run to raise funds to support its business. These statements are based on various assumptions, whether or not identified in this press release, and on the current expectations of Boost Run's and Willow Lane's management and are not predictions of actual performance. These forward-looking statements are provided for illustrative purposes only and are not intended to serve as, and must not be relied on by any investor as, a guarantee, an assurance, a prediction or a definitive statement of fact or probability. Actual events and circumstances are difficult or impossible to predict and will differ from assumptions. Many actual events and circumstances are beyond the control of Boost Run and Willow Lane.
+https://www.tradingview.com/news/DJN_DN20260413002981:0/
+
+
+
+Big Tech, Chip Stocks Slide Again As Trump Moves To Blockade Strait Of Hormuz After Failed Peace Talks With Iran
+Apr 13, 2026, 11:52 GMT+2
+Key points:
+Major tech stocks declined in Monday’s premarket sessions after a change in posture in Iran-war talks.
+Peace talks between the two sides in Pakistan failed, and the U.S. has said it will blockade the Strait of Hormuz starting Monday.
+Meta and Amazon declined 1.4%. Apple, Tesla, and Microsoft were down under 1%. 
+Big Tech and major semiconductor stocks fell in early premarket trading on Monday, after the talks between the U.S. and Iran to end the war failed and the U.S. said it would move to blockade the Strait of Hormuz.
+
+Micron led the decline, falling nearly 2%, while shares of Nvidia, Intel, Advanced Micro Devices, and Taiwan Semiconductor Manufacturing were down 0.8% to 1.4%.
+
+In the Magnificent Seven group, Meta and Amazon declined 1.4%. Apple, Tesla, and Microsoft were down by 1% or more. SanDisk was in the green, up 1.8%, after Friday’s announcement about the stock being picked to join the Nasdaq-100 index on April 20.
+
+The new threat from the U.S. set up a risky new showdown that could draw American forces into a prolonged struggle to control the strategic chokepoint while compounding the global economic damage caused by the conflict.
+
+U.S. stock futures tumbled early Monday, while oil rose 6.7% to $102. 
+
+U.S.’s Renewed Offensive
+
+U.S. Central Command said enforcement of the maritime restrictions would begin at 10 am ET on Monday, targeting the shipping of Iranian exports without applying to all traffic through the waterway. 
+
+U.S. President Donald Trump said the action would be “very effective,” while also warning that Washington could resume limited strikes if Iran resisted the move, The Wall Street Journal noted.
+
+If the stock moves carry over to the regular session, companies stand to lose part of the gain they managed in the latter part of last week after a temporary ceasefire between the U.S. and Iran lifted global markets and brought oil prices lower.
+
+Retail’s View Holds Steady On Big Names
+
+On Stocktwits, the retail sentiment for NVDA and MU remained ‘bearish,’ and remained ‘neutral’ for META, GOOGL and MSFT. The sentiment for AAPL dropped to ‘bullish’ from ‘extremely bullish.’
+
+“NVDA market is too smart and over the roller coaster ride at this point. The dip was bought. Long term holders are holding and traders won’t be able to dampen the trend up anymore. This dips a little PM and rallies up during open,” forecast a user.
+https://www.tradingview.com/news/stocktwits:0680c209c094b:0/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
